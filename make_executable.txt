@@ -1,0 +1,4 @@
+chmod +x setup_env.sh
+chmod +x run.sh
+./setup_env.sh
+./run.sh

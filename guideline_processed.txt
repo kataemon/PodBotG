@@ -1,0 +1,932 @@
+American Society for Gastrointestinal Endoscopy –European
+Society of Gastrointestinal Endoscopy guideline on primary
+endoscopic bariatric and metabolic therapies for adults withobesity
+Authors
+Pichamol Jirapinyo1,‡, Alia Hadefi2,‡, Christopher C. Thompson1,Á r p á dV .P a t a i3, Rahul Pannala4,S t e f a nK .G o e l d e r5,
+Vladimir Kushnir6, Marc Barthet7, Caroline M. Apovian8,I v oB o s k o s k i9, Christopher G. Chapman10, Paul Davidson11,
+Gianfranco Donatelli12, Vivek Kumbhari13, Bu Hayee14, Janelle Esker15,T o m a sH u c l16, Aurora D. Pryor17, Roberta
+Maselli18, Allison R. Schulman19,F r a n c o i sP a t t o u20, Shira Zelber-Sagi21,P a u lA .B a i n22, Valérie Durieux23,K o n s t a n t i n o s
+Triantafyllou24,N i r a vT h o s a n i25, Vincent Huberty2,*, Shelby Sullivan15,*
+Institutions
+1 Division of Gastroenterology, Hepatology and
+Endoscopy, Brigham and Women's Hospital, HarvardMedical School, Boston, Massachusetts, USA
+2 Department of Gastroenterology,
+Hepatopancreatology, and Digestive Oncology, CUBHôpital Erasme, Université Libre de Bruxelles, HôpitalUniversitaire de Bruxelles, Brussels, Belgium
+3 Department of Surgery, Transplantation and
+Gastroenterology, Semmelweis University, Budapest,
+Hungary
+4 Department of Gastroenterology and Hepatology,
+Mayo Clinic, Scottsdale, Arizona, USA
+5 Department of Gastroenterology, University Hospital
+Augsburg, Augsburg, Germany
+6 Department of Medicine-Division of Gastroenterology,
+Washington University, Washington University School of
+Medicine in St Louis, St Louis, Missouri, USA
+7 Department of Hepatogastroenterology, Faculty of
+Medicine, Aix-Marseille University, Chemin des Bourrely,Marseille, France
+8 Division of Endocrinology, Diabetes and Hypertension,
+Brigham and Women's Hospital, Harvard MedicalSchool, Boston, Massachusetts, USA
+9 Digestive Endoscopy Unit, Fondazione Policlinico
+Universitario Agostino Gemelli IRCCS, and Centre for
+Endoscopic Research Therapeutics and Training,Department of Translational Medicine and Surgery,Università Cattolica del Sacro Cuore, Rome, Italy10 Center for Interventional and Therapeutic Endoscopy,
+Division of Digestive Diseases and Nutrition, Rush
+University, Chicago, Illinois USA
+11 Department of Surgery, Brigham and Women's
+Hospital, Boston, Massachusetts, USA
+12 Unité d'Endoscopie Interventionnelle, Hôpital Privé des
+Peupliers, Ramsay Générale de Santé, Paris, France andDepartment of Clinical Medicine and Surgery,University of Naples "Federico II," Naples, Italy
+13 Division of Gastroenterology and Hepatology,
+Mayo Clinic, Jacksonville, Florida, USA
+14 Division of Gastroenterology, Kings College London,
+London, United Kingdom
+15 Division of Gastroenterology and Hepatology,
+University of Colorado School of Medicine, Aurora,Colorado, USA
+16 Department of Gastroenterology and Hepatology,
+Institute of Clinical and Experimental Medicine,
+Prague, Czech Republic
+17 Department of Surgery, Long Island Jewish Medical
+Center, Queens, New York, USA
+18 Department of Biomedical Sciences, Humanitas
+University, Pieve Emanuele, Italy and HumanitasClinical and Research Center IRCCS, Endoscopy Unit,Rozzano, Italy
+19 Division of Gastroenterology and Hepatology,
+University of Michigan, Ann Arbor, Michigan, USA
+20 Department of Endocrine and Metabolic Surgery, CHU
+Lille, University of Lille, Inserm, Institut Pasteur Lille,Lille, France
+21 School of Public Health, Faculty of Social Welfare and
+Health Sciences, University of Haifa, Haifa, Israel andDepartment of Gastroenterology, Tel Aviv Medical
+Center, Tel Aviv, IsraelGuideline
+‡Drs Jirapinyo and Hadefi share co –first authorship.
+*Drs Huberty and Sullivan share co –senior authorship.
+Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved. 437
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+Article published online: 2024-04-19
+The rising burden of obesity [1 –4] and its related comorbid-
+ities, such as type 2 diabetes mellitus [5] (T2DM) and metabolic
+dysfunction –associated steatotic liver disease [6, 7], constitute
+a major public health issue globally. It is predicted that by 2030the number of people suffering from obesity will have doubledsince 2010, reaching over 1 billion adults worldwide [8]. Obesi-ty is a significant risk factor for all-cause mortality [9], driven
+mainly by cardiovascular diseases and cancer. Therefore, ex-
+panding treatment options for obesity is paramount.
+Traditionally, the primary modalities for the treatment of
+obesity include lifestyle modification (LM), antiobesity medica-tions (AOMs), and bariatric and metabolic surgery. Weight loss22 Countway Library of Medicine, Harvard Medical School,
+Boston, Massachusetts, USA
+23 Bibliothèque des Sciences de la Santé, Université Libre
+de Bruxelles, Brussels, Belgium
+24 Hepatogastroenterology Unit, Second Department of
+Internal Medicine-Propaedeutic, Medical School,National and Kapodistrian University of Athens,"Attikon" University General Hospital, Athens, Greece
+25 Center for Interventional Gastroenterology at
+UTHealth, Division of Gastroenterology Hepatologyand Nutrition, McGovern Medical School, Houston,Texas, USA
+published online 19.4.2024
+Bibliography
+Endoscopy 2024; 56: 437 –456
+DOI 10.1055/a-2292-2494
+ISSN 0013-726X
+© 2024. American Society for Gastrointestinal Endoscopy and
+European Society of Gastrointestinal Endoscopy. Published by
+Elsevier Inc on behalf of American Society for GastrointestinalEndoscopy and by Georg Thieme Verlag KG Stuttgart onbehalf of European Society of Gastrointestinal Endoscopy.All rights reservedThis article is being published jointly in Gastrointestinal
+Endoscopy and Endoscopy .
+This article is published by Thieme.
+Georg Thieme Verlag KG, Rüdigerstraße 14,
+70469 Stuttgart, GermanyCorresponding author
+Alia Hadefi, MD, Department of Gastroenterology,Hepatopancreatology and Digestive oncology, Hôpital
+Erasme, Hôpital Universitaire de Bruxelles, Université Libre de
+Bruxelles, Route de Lennik, 808, Brussels, Belgiumalia.hadefi@hubruxelles.be
+ABSTRACT
+This joint ASGE-ESGE guideline provides an evidence-based
+summary and recommendations regarding the role ofendoscopic bariatric and metabolic therapies (EBMTs) inthe management of obesity. The document was developedusing the Grading of Recommendations, Assessment, De-
+velopment and Evaluation (GRADE) framework. It evaluates
+the efficacy and safety of EBMT devices and procedures thatcurrently have CE mark or FDA-clearance/approval, or thathad been approved within five years of document develop-ment. The guideline suggests the use of EBMTs plus lifestylemodification in patients with a BMI of ≥30kg/m
+2,o rw i t ha
+BMI of 27.0 –29.9kg/m2with at least 1 obesity-related co-
+morbidity. Furthermore, it suggests the utilization of intra-
+gastric balloons and devices for endoscopic gastric remo-
+deling (EGR) in conjunction with lifestyle modification forthis patient population.Supplementary Material
+Supplementary Material is available underhttps://doi.org/10.1055/a-2292-2494
+ABBREVIATIONS
+AE adverse event
+AOM antiobesity medication
+ASGE American Society for Gastrointestinal Endos-
+copy
+AT aspiration therapy
+BMI body mass index
+CE Conformité Européenne
+CI confidence interval
+DJBL duodenal-jejunal bypass liner
+DMR duodenal mucosal resurfacing
+EBMT endoscopic bariatric and metabolic therapy
+EGR endoscopic gastric remodeling
+ESG endoscopic sleeve gastroplastyESGE European Society of Gastrointestinal Endoscopy
+FDA U . S . F o o da n dD r u gA d m i n i s t r a t i o n
+GLP-1Ras glucagon-like peptid e 1 receptor agonists
+IGB intragastric balloon
+IOP Incisionless Operating Platform
+LM lifestyle modification
+MD mean difference
+PPI proton pump inhibitor
+RCT randomized controlled trial
+SAE serious adverse event
+T2DM type 2 diabetes mellitus
+TPS transpyloric shuttle
+TWL total weight loss
+438 Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved.Guideline
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+through LM is the first-line treatment for obesity. Nevertheless,
+even high-intensity LM encompas sing calorie restriction, in-
+creased physical activity, and a structured behavior changeprogram ( ≥14 sessions in the first 6 months of therapy) is asso-
+ciated with only minimal to mode rate weight loss [10], with
+most patients unable to sustain a long-term weight loss of at
+least 5% [11]. Barriers such as ongoing cost and time commit-ment also contribute to limite d sustained weight loss with LM
+[12]. Newer AOMs, in particular glucagon-like peptide 1 recep-tor agonists (GLP-1RAs), which induce greater weight loss com-pared with previous AOMs, are increasingly being prescribedfor patients with an inadequate response to LM [13 –16]. De-
+spite their efficacy, the use of GLP-1RAs is somewhat limited
+because of costs, drug shortages, insurance coverage, and in-
+tolerance [17]. Additionally, long -term efficacy and safety are
+unclear, including concerns regarding potentially irreversibleGI motility disorders [18]. Finally, bariatric and metabolic sur-gery is considered the most effective treatment for class II andclass III obesity [19, 20] and its related comorbidities [21 –23].
+Nevertheless, because of a variety of reasons, including cost,patient access, and potentially perceived invasiveness, lessthan 2% of eligible patients currently choose to undergo sur-gery per year [24].
+Endoscopic bariatric and metabolic therapies (EBMTs) have
+been developed and refined over the past 3 decades and arenow increasingly performed worldwide. EBMTs are classicallydivided into gastric and small-b owel devices and procedures,
+with the former focusing primarily on weight loss with second-ary effects on metabolic conditions and the latter focusing onmetabolic conditions with or wi thout weight loss [25, 26]. How-
+ever, despite the increasing popularity of EBMTs over recent
+years, to date, there is no overarching guideline focusing on
+the field. This evidence-based guideline was jointly preparedby the American Society for Gastr ointestinal Endoscopy (ASGE)
+and the European Society of Gastrointestinal Endoscopy (ESGE)and sought to address the efficacy and safety endpoints of gas-▶Table1 ASGE –ESGE recommendations on primary endoscopic bariatric and metabolic therapies for the management of obesity.
+Recommendations Strength of
+recommendationQuality of evidence
+1. In adults with overweight or obesity, the ASGE –ESGE suggests the use of endoscopic baria-
+tric and metabolic therapies plus LM over LM alone for patients with a BMI ≥30kg/m2 with or
+without an obesity-related comorbidity or a BMI of 27 to 29.9kg/m2 with at least 1 obesity-
+related comorbidity.Conditional Very low
+2. In adults with obesity, the ASGE –ESGE suggests the use of an IGB plus LM over LM alone. Conditional Moderate
+3. In adults with obesity undergoing IGB placement, the ASGE –ESGE suggests the use of antie-
+metics periprocedurally.Conditional Very low
+4. In adults with obesity undergoing IGB placement, the ASGE –ESGE suggests the use of pain
+medications periprocedurally.Conditional Very low
+5. In adults with obesity undergoing IGB placement, the ASGE –ESGE suggests the use of proton
+pump inhibitors while the IGB is in place.Conditional Very low
+6. In adults with obesity, the ASGE –ESGE suggests treatment with EGR plus LM over LM alone. Conditional Moderate
+7. In adults with obesity undergoing EGR, the ASGE –ESGE suggests the use of antiemetics
+periprocedurally.Conditional Very low
+8. In adults with obesity undergoing EGR, the ASGE –ESGE suggests the use of pain medications
+periprocedurally.Conditional Very low
+9. In adults with obesity undergoing EGR, the ASGE –ESGE suggests the use of prophylactic
+antibiotics periprocedurally.Conditional Very low
+10. In adults with obesity undergoing EGR, the ASGE –ESGE suggests the use of short-term
+proton pump inhibitors periprocedurally.Conditional Very low
+11. In adults with obesity, the ASGE –ESGE suggests treatment with aspiration therapy plus LM
+over LM alone.Conditional Low
+12. In adults with obesity, the ASGE –ESGE recommends treatment with a transpyloric shuttle
+only in the context of a clinical trial.No recommendation Knowledge gap
+13. In adults with obesity and concomitant type 2 diabetes mellitus, the ASGE –ESGE suggests
+treatment with a duodenal-jejunal bypass liner plus LM over LM alone.Conditional Moderate
+14. In adults with type 2 diabetes mellitus, the ASGE –ESGE recommends treatment with duo-
+denal mucosal resurfacing only in the context of a clinical trial.No recommendation Knowledge gap
+ASGE , American Society for Gastrointestinal Endoscopy; ESGE , European Society of Gastrointestinal Endoscopy; LM, lifestyle modification; IGB, intragastric balloon;
+EGR, endoscopic gastric remodeling.
+Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved. 439
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+t r i ca n ds m a l l - b o w e lE B M T sa sw e l la sp e r i p r o c e d u r a lc a r e( ▶Ta-
+ble1 ).
+Target Goals for EBMTs
+The amount of weight loss is the most important predictor for
+improvement in obesity-related comorbidities such as cardio-
+vascular disease [27, 28], metabolic disorders (T2DM) [29], me-
+tabolic dysfunction –associated steatotic liver disease [30], and
+cancer [31]. Specifically, an improvement in comorbidity clini-cal endpoints starts at a weight loss of ≥5%, which is associated
+with a decrease in serum glucose, insulin, triglyceride, and ala-nine transaminase [32]. In the Diabetes Prevention Programstudy, patients at risk for dev eloping T2DMwho were random-
+ized to intensive LM and achieved ≥7% t o t al w ei ght los s ( TWL )
+at 12 months experienced a significant reduction in the cumu-
+lative incidence of T2DM[33]. I n a post-hoc analysis of the Look
+AHEADrandomized clinical trial (RCT), which evaluated theeffect of the amount of weight loss on cardiometabolic risk fac-
+tors (n=1428), patients with ≥8% TWL at 1 year had the great-est reduction in hemoglobin A1 c( H b A 1 c ) .T h e ya l s os u s t a i n e d
+the most reduction in HbA1c at 4 years without or with partialrecurrent weight gain ( –.57 % and –.32%, respectively) compar-
+ed with those who achieved <8% TWL [34]. Similarly, anotherpost-hoc analysis of this RCT found that patients who experi-enced ≥10% TWL had a significant reduction in cardiovascular
+disease –related and all-cause mortalities [28]. For metabolic
+dysfunction –associated steatohepatitis [35], a study with paired
+liver biopsy samples before and at 52 weeks after LM (n=261)found a dose-responsive improvement in metabolic dysfunc-tion–associated steatohepatitis histologic features. Specifical-
+ly, in patients with ≥10% TWL, 90% had resolution of metabolic
+dysfunction –associated steatohepatitis and 45% had regres-
+sion in liver fibrosis [30].
+Target goals for EBMTs depend on the type of intervention.
+Specifically, for gastric inter ventions (intragastric balloons
+[IGBs], endoscopic gastric remo deling [EGR], aspiration ther-
+apy [AT], and transpyloric shuttle [TPS]), the primary efficacyendpoint is weight loss. For sma ll-bowel interventions (duode-
+nal-jejunal bypass liner [DJBL] and duodenal mucosal resurfa-
+▶Fig.1 Gastric and small bowel endoscopic bariatric and metabolic therap ies. ESG: endoscopic sleeve gastroplasty, POSE: primary obesity
+surgery endoluminal, DMR: duod enal mucosal resurfacing.
+440 Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved.Guideline
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+cing [DMR]), glycemic improvement is the primary efficacy
+endpoint, with weight loss as a co-primary or secondary end-
+point for DJBL. Given the scope of this document with all rele-vant interventions included, cardiometabolic improvements
+were not analyzed independently. Nevertheless, the pooled
+weight loss of each intervention was assessed and comparedwith the 5% to 10% TWL threshold. If an intervention was asso-ciated with ≥5% TWL, this suggested an improvement in cardi-
+ometabolic outcomes based on the findings described above.
+Methods
+This document represents the official recommendations of theASGE and ESGE. It was developed by the primary EBMT guide-line panel and approved by the ASGE and ESGE governingboards. The guideline was developed using the Grading of Re-commendations Assessment, Development and Evaluation fra-mework. The relevant clinical qu estions were developed a priori
+and listed in the PICO format, which outlined the specificpatient population (P), interve ntion (I), comparator (C), and
+outcome (O) for each question ( Supplementary Table1 ,a v a i l -
+able online).
+This document focused on EBMTs categorized by procedure
+type and not by specific device. Specifically, EBMTs that wereapproved or cleared by the U.S.Food and Drug Administration(FDA) or had a Conformité Européenne (CE) mark at the timeof a literature search and 5 years before were included. The in-
+cluded procedures were IGB (Or bera IGB, Orbera365 IGB, Oba-
+lon IGB, Reshape IGB, and Spatz IGB), EGR (endoscopic sleeve
+gastroplasty [ESG] using the Overstitch Endoscopic SuturingSystem (Apollo Endosurgery, Aus tin, Tex, USA), primary obesity
+surgical endoluminal [POSE] usi ng the Incisionless Operating
+Platform (IOP, USGI Medical, San Clemente, Calif, USA), andendoscopic gastric plication using the Endomina system (EndoTools Therapeutics, Gosselies, B elgium)), aspiration therapy
+(AT) using the AspireAssist System (Aspire Bariatrics, King of
+Prussia, Penn, USA), Transpyloric Shuttle (TPS, BAROnova INC,
+Goleta, Calif, USA), Duodenal Jejunal Bypass Liner (DJBL, GI Dy-namics, Lexington, KY, USA) and duodenal mucosal resurfacing(DMR) using the Revita (Fractyl Health, Lexington, Mass, USA)(
+▶Fig.1 ). Evidence was presented to a panel of experts repre-
+senting various stakeholders including bariatric endoscopy,bariatric surgery, obesity medicine, bariatric psychology, andnutrition. A patient advocate was also included. All panel mem-
+bers were required to disclose potential financial and intellec-
+tual conflicts of interest, which were addressed according toASGE policies.
+In developing these recommendations, we took into consid-
+eration the magnitude and certainty of evidence of benefitsand harms of each intervention, feasibility, patient values andpreferences, acceptability, resource requirement, cost, cost-effectiveness, and the impact on health equity. The final word-
+ing of the recommendation including direction and strength
+was approved by all members of the panel and the ASGE andESGE governing boards. According to the Grading of Recom-mendations Assessment, Deve lopment and Evaluation ap-
+proach, recommendations are labeled as “strong ”or“condition-al”and are phrased as “we recommend ”or“we suggest, ”ac-
+cordingly (
+▶Table2 and▶Table3 ). Further details of the meth-
+odology used for this guideline including, and results from allmeta-analyses are presented in Appendix 1 (available online).
+Results and Summary of Recommendations
+A summary of all recommendations is provided in ▶Table1 .
+Implementation considerations
+▪For patients with a BMI of 27.0 to 29.9kg/m2with at least 1
+obesity-related comorbidity , data were available for IGB,
+EGR, and DJBL.
+▪For patients with class III obesity, data were available for IGB,EGR, AT, and DJBL.
+Summary of the evidence
+For the subgroup with BMIs of 27.0 to 29.9kg/m2,6o b s e r v a -
+tional studies were used to inform this PICO (IGB studies [55,
+56], EGR study [57], and DJBL studies [58, 60]). Of these, 6studies were used to assess safety [55 –60], 4 studies for per-
+centage of TWL [55 –57,59], and 3 studies for the change in
+HbA1c [58 –60]. All studies on IGB and EGR only included pa-
+tients who were overweight (BMI of 25.0 –29.9kg/m
+2or 27.0 –
+29.9kg/m2). All DJBL studies included patients who were both
+overweight (starting BMI of 27.0 or 28.0kg/m2)a n dh a do b e s i -
+▶Table2 Interpretation of the certainty in evidence of effects using
+the Grading of Recommendations Assessment, Development and Eval-uation framework
+Certainty Description
+High We are very confident that the true effect lies close
+to that of the estimate of the effect.
+Moderate We are moderately confident in the effect estimate.
+The true effect is likely to be close to the estimate ofthe effect, but there is a possibility that it is sub-stantially different.
+Low Our confidence in the effect estimate is limited. The
+true effect may be substantially different from the
+estimate of the effect.
+Very low We have very little confidence in the effect esti-
+mate. The true effect is likely to be substantially
+different from the estimate of effect.
+From Balshem H, Helfand M, Schünemann HJ, et al. GRADE guidelines: 3.
+Rating the quality of evidence. J Clin Epidemiol 2011;64:401 –6.RECOMMENDATION 1
+In adults with overweight or obesity, the ASGE –ESGE sug-
+gests the use of EBMTs plus LM over LM alone for patientswith a body mass index (BMI) of ≥30kg/m
+2or BMI of 27.0
+to 29.9kg/m2with at least 1 obesity-related comorbidity.
+(Conditional recommendation, very low certainty)
+Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved. 441
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+ty. Mean age ranged from 38 to 52 years and BMI from 29.7 to
+43.1kg/m2. All studies prescribed concomitant LM, except for
+Moore et al [56], where the intensity of LM varied across sitesgiven the nature of real -world experience ( Supplementary Ta-
+ble2 , available online).
+For the subgroup with classes I and II obesity, 17 RCTs were
+used to inform this PICO (IGB studies [39 –44], EGR studies [45 –
+47,62], AT studies [48,52], TPS studies [49], DJBL studies [50,51, 63], and DMR studies [64]). Of these, 15 studies were used
+to assess safety [39, 40,42 –46,49 –52,61 –64],14 studies for
+percentage of TWL [39 –47, 49 –52, 64], and 2 studies for the
+change in HbA1c [50,51]. All IGB, EGR, and TPS studies only in-cluded patients with classes I an d II obesity. Otherwise, the re-
+mainder included a combination of different classes of obesity(classes II and III for AT; classes I, II, and III for DJBL; and over-weight and classes I and II for DMR). Mean age ranged from 38to 58 years and BMI from 31.5 to 42.0kg/m
+2.M o s ts t u d i e sc o m -
+pared EBMTs with LM alone, whereas Sullivan et al [44], Ponce
+et al [43], Sullivan et al [47], Rothstein et al [49], Thompson etal [50], and Mingrone et al [64] compared EBMTs with sham(Supplementary Table3 , available online).
+For the subgroup with class III obesity, 31 observational
+studies and RCTs (interventional arms only) were used to in-form this PICO (IGB studies [55, 56,61, 65 –73], EGR studies
+[57, 74], AT studies [48,52, 75], and DJBL studies [50,51, 58,
+59, 63, 76 –84]). Of these, 26 studies were used to assess safety
+[48, 50 –52,57 –59, 63,67 –84], 20 studies for percentage of
+TWL [48,50 –52,55 –57,59,61,65 –69,71 –75,81], and 10 studies
+for the changes in HbA1c [50,51,58,59,79 –84]. All IGB and EGR
+studies only included patients with class III obesity, whereas ATand DJBL studies included both class III and other classes of obe-sity (class II ± class I). Mean age ranged from 33 to 58 years andBMI from 34.6 to 69.1kg/m
+2. All studies prescribed concomi-
+tant LM, except for Moore et al [56], where the intensity of LM
+varied across sites given the nature of real-world experience(Supplementary Table4 , available online).Benefits
+For the subgroup with BMIs of 27.0 to 29.9kg/m2,4o b s e r v a -
+tional studies (n=692) informed the outcomes of percentageof TWL at 6 months (for IGB) or 12 months (for EGR and DJBL)and 3 studies (n=436) for HbA1c reduction at 12 months (forDJBL) [55 –60]. The pooled weight loss at 6 to 12 months was
+11.9% TWL (95% confidence interval [CI], 7.7 –16.0) ( Supple-
+mentary Fig.1 , available online) and p ooled HbA1c reduction
+at 12 months was 1.0% (95% CI, .6 –1.5) ( Supplementary Fig.
+2, available online).
+For the subgroup with classes I and II obesity, 14 RCTs (n =
+2787) informed the outcomes of percentage of TWL at 12months [39 –47,49 –52, 64] and 2 studies (n=490) for HbA1c
+reduction at 12 months [50,51]. A total of 1636 subjects werein the EBMT plus LM group and 1151 in the LM group. The meandifference (MD), which represented the difference between the
+pooled percentage of TWL in the EBMT arm minus the control
+arm, at IGB removal or 12 months after EGR, AT, DJBL, or TPSwas 7.1% (95% CI, 5.4 –8.8) in favor of EBMT ( Supplementary
+Fig.3 , available online). The mean TWL of the EBMT arm ranged
+from 5.0% to 18.6% at IGB removal or 12 months for EGR, DJBL,AT, or TPS.The MD, which represented the difference betweenthe pooled HbA1c reduction in the EBMT arm minus the controlarm, at 12 months was .7 % (95 % CI, .4 –1.1) in favor of EBMT
+(Supplementary Fig.4 , available online). The mean HbA1c re-
+duction of the EBMT arms ranged from 1.1% to 1.5% at 12months.
+For the subgroup with class III obesity, 20 observational
+studies (n=2776) informed the outcomes of percentage ofTWL at 6 to 12 months [48,50 –52,55 –57, 59,61, 65 –69,71 –
+75,81] and 10 studies (n=815) for HbA1c reduction at 12months [50,51, 58, 59, 79 –84]. The pooled TWL at 6 to 12
+months was 13.1% (95% CI, 10.8 –15.4) ( Supplementary Fig.
+5, available online) and pooled HbA1c reduction at 12 months
+w a s1 . 3 %( 9 5 %C I ,1 , 0 –1.6) ( Supplementary Fig.6 , available
+online).▶Table3 Interpretation of strong and conditional recommendations using the Grading of Recommendations Assessment, Development and Evalua-
+tion framework
+Implications Strong recommendation Conditional recommendation
+For patients Most individuals in this situation would want the recommen-
+ded course of action and only a small proportion would not.Most individuals in this situation would want the suggested
+course of action, but many would not.
+For clinicians Most individuals should receive the intervention. Formal de-
+cision aids are not likely to be needed to help individuals makedecisions consistent with the ir values and preferences.Different choices will be appropriate for individual patients
+consistent with their values and preferences. Use shareddecision-making. Decision aids may be useful in helping
+patients make decisions consistent with their individual risks,
+values, and preferences.
+For policy-
+makersThe recommendation can be adapted as policy or perform-
+ance measure in most situations.Policymaking will require substantial debate and involvement
+of various stakeholders. Performance measures should assess
+whether decision-making is appropriate.
+From Schünemann HJ, Mustafa RA, Brozek J, et al. GRADE guidelines: 22.The GRADE approach for tests and strategies-from test accuracy to patient-impo rtant out-
+comes and recommendations. J Clin Epidemiol 2019;111:69 –82; Grunvald E, Shah R, Hernaez R, et al. AGA clinical practice guideline on pharmacological interven-
+tions for adults with obesity. Gastroenterology 2022;163:1198 –225.
+442 Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved.Guideline
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+Harms
+For the subgroup with BMIs of 27.0 to 29.9kg/m2,6o b s e r v a -
+tional studies informed the outcome of serious adverse events
+(SAEs; n=7416) [55 –60]. SAEs were defined by the investiga-
+tors and reported in the original studies. The pooled estimatefor SAEs showed an event rate of 2.7% (95% CI, 1.2 –6.0) ( Sup-
+plementary Fig.7 , available online).
+For the subgroup with classes I and II obesity, 16 RCTs in-
+formed the outcome of SAEs (n =1464) [39, 40, 42 –46, 49 –52,
+62–64]. The pooled estimate for SAEs showed an absolute risk
+of 14 additional SAEs per 1000 subjects [6, 30] in the EBMT
+group (111/2135) compared with the control group (6/1464)
+(Supplementary Fig.8 , available online).
+For the subgroup with class III obesity, 26 studies informed
+the outcome of SAEs (n =2042) [48, 50 –52,57 –59, 63,67 –84].
+The pooled estimate for SAEs showed an event rate of 6.9%(95% CI, 5.7 –8.2) ( Supplementary Fig.9 , available online).
+Certainty of evidence assessment
+T h ec e r t a i n t yi nt h ee v i d e n c eo fe f f e c t so fE B M T si nt h es u b -
+group with BMIs of 27.0 to 29.9kg/m2with at least 1 comorbid-
+ity, subgroup with classes I to II obesity, and subgroup withclass III obesity was very low, low, and very low, respectively(Supplementary Table5 , available online). Therefore, the
+overall certainty in the evidence of this PICO (ie, the effects ofEBMTs for patients with a BMI of ≥30 kg/m
+2or 27.0 –29.9kg/m2
+with ≥1 comorbidity) was deemed to be very low.
+In the subgroup with BMI of 27.0 to 29.9kg/m2,f o rt h e
+weight loss outcome, there was a concern for confoundingbias in some studies as well as inconsistency and indirectnessbecause some studies reported the amount of weight loss inboth the overweight and obesity groups combined. For theHbA1c outcome, there was a concern for inconsistency, indir-ectness (because of a mixed overweight and obesity populationin some studies), and imprecision (because of a small total
+number of patients). For harms, there was a very low certainty
+in evidence given the inconsistency, indirectness (because of amixed overweight and obesity population in some studies), andimprecision (because of a small number of SAEs) ( Supplemen-
+tary Table6 , available online).
+In the subgroup with classes I and II obesity, there was incon-
+sistency in the amount of weight loss, which was likely ex-plained by the heterogeneity a mong different EBMT devices
+and/or procedures pooled. For the HbA1c outcome, there was
+imprecision because the CI crossed the line of no difference.For harms, the certainty of evidence was downgraded twicefor imprecision because of a low event rate and wide CI ( Sup-
+plementary Table7 , available online).
+In the subgroup with class III obesity, for the weight loss out-
+come, there was a concern for confounding bias in some studiesas well as inconsistency and indirectness because some studies
+reported the amount of weight loss of both class III obesity and
+other classes combined. For the HbA1c outcome, there was aconcern for inconsistency and indirectness with some studiesreporting the outcomes of both class III obesity and other clas-ses combined. For harms, there was a very low certainty in evi-dence given the inconsistency, indirectness, and imprecision
+because of a small number of SAEs ( Supplementary Table8 ,
+available online).
+Discussion
+To assess the patient populations in which EBMTs should beconsidered, we divided the potential populations into 3 cate-gories based on BMI: BMI of 27.0 to 29.9kg/m
+2with at least 1
+obesity-related comorbidity, classes I and II obesity, and classIII obesity. Because most EBMTs included in this guideline wereapproved or cleared for classes I and II obesity, only RCTs wereincluded for this population. In contrast, for the BMI of 27.0 to
+29.9kg/m
+2and class III obesity subgroups, no RCTs specifically
+assessed the effect of EBMTs in these 2 populations. Therefore,observational studi es were evaluated.
+For the overweight category, whereas Moore et al [56] and
+Barrichello et al [57] included patients with BMIs of 25.0 to29.9kg/m
+2, most studies included patients starting at BMIs of
+27 or 28 kg/m2[55–60]. Additionally, half of the studies includ-
+ed patients with at least 1 obesit y-related comorbidity (T2DM).
+Therefore, the panel decided to use a conservative cutoff for
+this patient population with a starting BMI of 27kg/m2with at
+least 1 comorbidity. For the class III obesity category, all IGBand EGR studies [55 –57,61, 65 –74] only included patients
+with class III obesity, whereas AT and DJBL studies [48, 50 –52,
+58, 59, 75, 79 –84] included both class III and class II ± class I
+obesity. Although some studies had a cutoff for the highestBMI at 50 or 55 kg/m
+2[48,50 –52,55 –59, 61,63, 69, 70, 74, 76 –
+84], some did not and recruited patients with BMIs up to 70 or
+78 kg/m2[65–68,71 –73, 75,82]. The panel accepted the het-
+erogeneity in this patient pop ulation. However, given that
+EBMTs may be used for either primary therapy or bridge therapybefore bariatric surgery, the panel agreed to not having an up-per limit of BMI for consideration of EBMTs.
+The amount of weight loss after EBMT was determined to be
+moderate for all BMI subgroups. Specifically, the amount of
+weight loss was 11.9% (95% CI, 7.7 –16.0) and 13.1% (95% CI,
+10.8–15.4) TWL in the BMI of 27.0 to 29.9kg/m
+2and class III
+obesity subgroups, respectively. For the subgroup with classesI and II obesity, the MD, representing the difference betweenthe pooled percentage of TWL in the EBMT arm minus the con-trol arm, was 6.3% (95% CI, 5.3 –7.3) in favor of EBMT, with the
+absolute percentage of TWL in the EBMT arm ranging from 5.0% to 18.6% at 12 months. For the BMI of 27.0 to 29.9kg/m
+2and
+class III obesity studies, the lower CI of percentage of TWL was
+7.7% and 10.8%, respectively. Given the pooled average of 3.2% TWL for the historical control subjects from all EBMT RCTs(Supplementary Fig.10 , available online), the MD of the
+amount of weight loss between the EBMT and control groupsin these 2 populations should remain above the 3% TWL mini-mal important difference threshold (MDs of 4.5% and 7.6%TWL, respectively). Similarly, for the subgroup with classes I
+and II obesity, not only did the l ower CI of the overall MD lie
+above the 3% TWL minimal important difference threshold,but our sensitivity analysis also showed that the lower CI ofthe MD of every EBMT also lay above this threshold ( Supple-
+mentary Fig.3 ). Additionally, all studies but IGB reported the
+Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved. 443
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+weight loss outcome at 12 months. For IGB, all studies reported
+percentage of TWL at the time of IGB removal (6 –8m o n t h s ) .
+Although Nunes et al [85] reported percentage of TWL in thesubgroups with overweight and class III obesity at 12 months
+(ie, 6 months after IGB removal), t his study evaluated the effect
+of IGB plus a very-low-calorie diet , which likely biased the magni-
+tude of weight loss [86]. Therefore, this study was excluded. Theeffect of IGB on weight loss after IGB removal in the subgroupswith overweight and class III obesity therefore remains to be as-sessed. The panel also noted inconsistency in the amount ofweight loss, especially for class III obesity. This was believed tobe because of a heterogeneity of t he patient populations, with
+some studies including patients with BMIs up to 55kg/m
+2for a
+primary therapy as an alternative to bariatric surgery [48,50 –
+52, 55 –59, 61,63, 69, 70, 74, 76 –84] and others including
+patients with BMIs up to 78kg/m2for bridge therapy before
+bariatric surgery [65 –68,71 –73,75,82]. The certainty of evi-
+dence was downgraded because of this inconsistency.
+T h eS A Er a t ew a s2 . 7 %( 9 5 %C I ,1 . 2 –6.0) and 6.9% (95% CI,
+5.7–8.2) for the BMI of 27.0 to 29.9kg/m2and class III obesity
+subgroups, respectively. For the subgroup with classes I and II
+obesity, the risk ratio of SAEs in the EBMT arm compared withthe control arm was 4.4 (95% CI, 2.4 –8.2), which was equiva-
+lent to 14 additional events per 1000 subjects. The SAE rate inthe EBMT arm ranged from 0% to 10.6%. Of note, the panelfound that the wide CIs for pooled SAE rates were likely becauseof the difference in SAE definitions used by the authors, espe-cially for DJBL studies. For example, although most DJBL studies
+defined SAEs as those resulting in early device explantation,
+Stratmann et al [82] only reported the rate of early device ex-plantation and Roehlen et al [77] only reported the rate ofSAEs without reporting the number of early device explanta-tions. In contrast, early removal of IGBs has not been consid-ered as a SAE in most trials, and specifically in the United States,RCTs would not meet the FDA categorization of SAE by itself.
+Currently, the number of studies evaluating the cost-effec-
+tiveness of EBMTs is limited. Saumoy et al [87] and Kelly et al
+[88] demonstrated that ESG was cost-effective compared with
+LM alone in class II obesity in the U nited States and United King-
+dom, respectively. Haseeb et al [89] showed that ESG was cost-effective compared with GLP-1RA and sleeve gastrectomy inclass II obesity in the United States. Although currently nostudy has specifically evaluated t he cost-effectiveness of EBMTs
+in other obesity classes or in an overweight population, the pa-
+nel agreed that EBMTs would most likely be cost-effective,
+especially when compared with LM, in these other BMI categor-ies.
+The panel considered the current state of EBMTs to be asso-
+ciated with reduced equity for all BMI subgroups. This is solelybecause of the lack of insurance coverage for EBMTs in mostcountries. This leads to inequity between those patients whoare able to afford the procedures and those who are not and po-
+tentially between the nonminority and minority. The panel no-
+ted that with universal insurance coverage, EBMTs will improveequity by providing better access to safe and effective care formore patients who suffer from obesity or overweight with atleast 1 obesity-related comorbidity.Rationale
+A conditional recommendation is driven primarily by moderatevariability in patient values and preferences. Specifically, al-
+though the IGB is generally acceptable among most patients
+suffering from obesity, some may prefer a less-invasive treat-
+ment approach (ie, LM) despite a lower weight loss than seenwith the IGB. Therefore, treatment options should be discussedto encourage shared decision-making.
+Summary of the evidence
+We identified a recently published guideline on IGB, which con-ducted a systematic review and meta-analysis with a compre-
+hensive search strategy (MEDLINE, Embase, and Cochrane Li-
+brary) from inception to January 2020 [36,90]. We updatedthe search to March 2021 and found no additional RCTs thatmet our inclusion and exclusion criteria. Therefore, 7 RCTs as-sessing the safety and efficacy of IGB were used to inform thisPICO [39 –44, 91]. All 7 studies reported percentage of TWL at
+the time of IGB removal (6 –8 months), and 2 studies reported
+percentage of TWL at 12 months [40, 41]. Mean age and BMI of
+the intervention arm ranged from 38.7 to 44.4 years and from
+30.3 to 53.9kg/m
+2, respectively. The interventional arm of all
+studies underwent concomitant LM. The control arms of Sulli-van et al [44] and Ponce et al [43] underwent a sham procedurewith concomitant LM, whereas the rest of the studies under-went LM alone ( Supplementary Table9 , available online).
+Benefits
+Seven RCTs informed the outcome of percentage of TWL at the
+time of IGB removal (6 –8 months) [39 –44,91], and 2 RCTs in-
+formed the outcome of percentage of TWL at 12 months [40,41]. Seven hundred seventy-nine subjects were in the IGB plusLM group and 654 in the LM group. The MD, representing thedifference between the pooled percentage of TWL in the IGBarm minus the control arm at the time of IGB removal (6 –8
+months), was 6.9% TWL (95% CI, 4.1 –9.7) in favor of the inter-
+vention ( Supplementary Fig.11 , available online). This repre-
+sented a 3.1 times greater weig ht loss in the IGB arm compared
+with the control arm (pooled weight loss of 10.7% TWL in theIGB arm vs 3.4% TWL in the control arm). The MD for percen-tage of TWL at 12 months was 4.4% TWL (95% CI, 2.9 –6.0)
+(Supplementary Fig.12 ). This represented a 2.4 times greater
+weight loss in the IGB arm compared with the control arm(pooled weight loss of 7.9% TWL in the IGB arm vs 3.3% TWL
+in the control arm).RECOMMENDATION 2
+In adults with obesity, the ASGE –ESGE suggests the use of
+a nI G Bp l u sL Mo v e rL Ma l o n e .
+(Conditional recommendation, moderate certainty )
+444 Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved.Guideline
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+Harms
+Seven RCTs informed the outcome of SAEs [39 –44,91]. SAEs
+were defined by the investigators and reported in the original
+studies. The pooled estimate fo r SAEs showed an absolute risk
+of 32 additional SAEs per 1000 subjects (95% CI, 7 –114) in the
+IGB group (58/1028) compared with the control group (0/798)(Supplementary Fig.13 , available online). Selected examples
+of SAEs from studies that reported particular SAE outcomes in-cluded esophageal mucosal injur y (4/473), gastric ulcer/bleed-
+ing (5/650), severe dehydration (5/704), aspiration pneumonia(2/42), perforation (2/653), gas tric outlet/bowel obstruction
+(1/802), and mortality (0/741) ( Supplementary Table10 ,
+available online).
+Certainty of evidence assessment
+The overall certainty in the evidence of effects for IGB was mod-erate ( Supplementary Tables 11 and12andSupplementary
+Fig.14 , available online). For benefits at 6 months, we found
+imprecision with weight loss because of the wide CI and some
+inconsistency that was not deemed of serious concern by itself,
+and no additional downgrading was performed. For benefits at12 months, imprecision was found because of a small samplesize and CI that crossed the line of no difference. For harms,there was moderate certainty in evidence given a small numberof SAEs with a wide CI.
+Discussion
+The first IGB approved for use was the Garren-Edwards GastricBubble (American Edwards Laboratories, Irvine, Calif, USA) in1985, an air-filled balloon made of polyurethane in a cylindrical
+shape that was removed from the market in 1988 because ofSAEs and lack of effective weight loss [92 –94]. Current IGBs
+have been designed to mitigate AEs and have demonstratedweight loss efficacy in sham-controlled trials as noted in thesummary of evidence. The next generation of IGBs approved in
+the United States and Europe came in 2015 and 2017, respec-
+tively, but IGBs have been used around the world since the1990s.
+The mechanism of action of IGBs for weight loss is likely mul-
+tifactorial. Early data suggested that at least 400mL of spaceoccupation in the stomach was required to reduce meal volume[95]. Subsequent analysis of gastric emptying has demonstrat-ed that the effects of fluid-filled IGBs are also in part because of
+a reduction in the rate of gastric emptying during balloon im-
+plantation [96]. These mechanisms may help explain the recur-rent weight gain that can occur after balloon removal, becausethe currently understood mechanisms for weight loss requireballoon presence.
+The magnitude of weight loss with IGB at 6 months was de-
+termined to be moderate, with a wide CI based on the mix ofsham-controlled and open-label RCTs included in the analysis.
+An analysis comparing open-label and sham IGB RCTs found
+that the sham study design lowered weight loss comparedwith open-label studies [97]. Combining open-label and sham-controlled studies in this analysis may underestimate the trueeffect of IGB in a clinical setting; however, this is the most con-servative approach. Additionally, the panel noted that weight
+loss was lower at 12 months (6 months after IGB removal)than at IGB removal. Although w eight loss at the 12-month
+time point was still significant, patients considering IGB ther-
+apy should be made aware of the l ikely regain of some weight
+within 6 months of IGB removal. Studies have evaluated repeat-ed use of IGB for longer term obesity treatment [98,99], but re-peated IGB therapy was not evaluated in this recommendation.
+SAEs were also discussed by the panel. The SAE rate was 5.6%,
+but safety varied across the gas-filled compared with fluid-filledballoons [39,40,43,44]. Of note, most SAEs were related toshort-term accommodative symptoms including nausea and
+vomiting, leading to dehydrat ion and abdominal pain. Al-
+though these did meet the FDA criteria for SAEs, they wereshort-lived and resolved without sequelae, leading the panelto determine the reported rates of SAEs were acceptable.
+The panel also found current reduced equity related to IGB
+treatment. This is solely because of the lack of insurance cover-age of IGB in most countries. Thi s leads to inequity between
+those patients who are able to pay out of pocket for IGB treat-
+ment and those patients who are not. The panel noted that in-
+surance coverage is crucial to reduce inequity and improve ac-cess to recommended obesity treatments. The panel foundthat acceptability of IGBs was high with the caveat of some re-current weight gain 6 months after IGB removal and noted thatsome patients favor the shorter duration of treatment with nopermanent changes to the anatomy of the GI tract.
+Further details regarding the rationale for this recommenda-
+tion including the results of systematic reviews, expert survey,and evidence profile are presented in Appendix 2 (available on-line).
+Further details regarding the rationale for this recommenda-
+tion including the results of systematic reviews, expert survey,and evidence profile are presented in Appendix 3 (available on-
+line).
+RECOMMENDATION 3
+In adults undergoing IGB placement, the ASGE –ESGE sug-
+gests the use of antiemetics periprocedurally.(Conditional recommendation, very low certainty )
+RECOMMENDATION 4
+In adults undergoing IGB placement, the ASGE –ESGE sug-
+gests the use of pain medications periprocedurally.(Conditional recommendation, very low certainty )
+Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved. 445
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+Further details regarding the rationale for this recommenda-
+tion including the results of systematic reviews, expert survey,and evidence profile are present ed in Appendix 4 (available on-
+line).
+Implementation consideration
+▪EGR may be performed using the Overstitch Endoscopic
+Suturing System (Apollo Endosurgery), Incisionless Operat-ing Platform (IOP; USGI Medical), or Endomina System (EndoTools Therapeutics). Prolene sutures are placed in the stom-
+ach to reduce its volume in all cases. The procedures have
+been generally referred to as endoscopic gastric plication orESG, originally described with the Overstitch EndoscopicSuturing System. The primary obesity surgery endoluminal(POSE) procedure specificall y referred to a procedure with
+the IOP; however, these also have been referred to as plica-tion ESG in the literature. Evidence is insufficient to specifi-cally recommend 1 device over another. The choice of device
+is based on clinical context, patient values, availability, and
+operator experience.
+Rationale
+A conditional recommendation is driven primarily by moderatevariability in patient values and preferences. Specifically, al-
+though EGR is generally acceptable among most patients suffer-ing from obesity, some may prefer a less-invasive treatment ap-
+proach (ie, LM) despite lower weight loss than seen with the EGR.
+Therefore, treatment options should be discussed to encourageshared decision-making. In addit ion, insurance coverage is fre-
+quently lacking. A greater number of patients would elect toget EGR if it were universally cove red by insurance. Furthermore,
+insurance coverage would reduce healthcare inequity.
+Summary of the evidence
+Four RCTs assessing the safety and efficacy of EGR were used toinform this PICO [45 –47, 62]. Of these, 4 studies were used to
+assess safety [45 –47,62], and 3 studies were used to assess ef-
+ficacy [45 –47, 62]. In Huberty et al [62], the control arm was of-
+fered a crossover to the intervention arm at 6 months; there-fore, the efficacy, which is the difference in mean weight loss
+between 2 two arms at 12 months, was not able to be assessed.Of the 4 studies, 1 study [45] used the Overstitch suturing de-vice, 2 studies [46, 47] used the IOP plication system, and 1
+study [62] used the Endomina plication system to perform
+EGR. Mean age and BMI of the intervention arm ranged from38 to 47 years and from 34.8 to 36.2kg/m
+2,r e s p e c t i v e l y( Sup-
+plementary Table9 ). The intervention arm of all studies under-
+went concomitant LM (moderate intensity for all studies exceptfor Sullivan et al [47], which und erwent concomitant low-inten-
+sity LM). The control arm of Sullivan et al [47] underwent asham procedure with concomitant low-intensity LM, whereas
+in the remaining studies moderate-intensity LM alone was
+used ( Supplementary Table9 ).
+Benefits
+Three RCTs informed the outcome of percentage of TWL at 12
+months [45 –47]. Three hundred forty subjects were in the EGR
+plus LM group and 245 in the LM group. The MD, representingthe difference between the pooled percentage of TWL in the
+EGR arm minus the control arm at 12 months, was 8.0% TWL
+(95% CI, 3.4 –12.6) in favor of the intervention ( Supplemen-
+tary Fig.15 , available online). This r epresented a 4.4 times
+greater weight loss in the EGR arm compared with the controlarm (pooled weight loss of 10.5% TWL in the EGR arm vs 2.4%TWL in the control arm).
+A separate meta-analysis includ ing only observational stud-
+ies was conducted. Twenty-one studies with 5250 patients re-
+ported percentage of TWL at 12 months after EGR and were in-
+cluded [57,74, 100 –116,133,134]. Of these, 16 studies (4880
+patients) used the Overstitch suturing device, 4 studies (319
+patients) used the IOP plication system, and 1 study (51patients) used the Endomina plication system to perform EGR.Mean age ranged from 34 to 56 years and BMI from 32.5 to49.9kg/m
+2. At 12 months, the pooled average weight loss was
+17.3% TWL (95% CI, 16.2 –18.4) ( Supplementary Fig.16A ,
+available online). A subgroup analysis based on the device dem-
+onstrated the efficacy of EGR performed using the Overstitchendoscopic suturing device, IOP, and Endomina plication sys-tem to be 18.2% TWL, 16.5% TWL and 7.0% TWL, respectively,at 12 months ( Supplementary Fig.16B ).
+Harms
+Four RCTs informed the outcome of SAEs [45 –47, 62]. SAEs
+were defined by the investigators and reported in the original
+studies. The pooled estimate for SAEs showed a relative risk of5.6 (95% CI, 1.1 –30.1) when comparing the EGR group (14/
+435) with the control group (1/253) ( Supplementary Fig.17 ,
+available online). Selected examples of SAEs from the ESG studyincluded abdominal abscess treated with endoscopy (1/131),upper GI bleeding managed cons ervatively (1/131), and malnu-
+trition treated with endoscopic reversal of the ESG (1/131).
+Selected examples of SAEs from the largest plication ESG study
+included extraluminal bleeding treated with laparoscopy (1/221), hepatic abscess treated wi th percutaneous drainage (1/
+221), and abdominal pain, naus ea, or vomiting requiring pro-RECOMMENDATION 6
+In adults with obesity, the ASGE –ESGE suggests treat-
+ment with EGR plus LM over LM alone.(Conditional recommendation, moderate certainty )RECOMMENDATION 5
+In adults undergoing IGB placement, the ASGE –ESGE sug-
+gests the use of proton pump inhibitors (PPIs) while the
+IGB is in place over no PPIs.
+(Conditional recommendation, very low certainty )
+446 Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved.Guideline
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+longed hospitalization (9/221) ( Supplementary Table13 ,
+available online).
+Certainty of evidence assessment
+The overall certainty in the evidence of effects for EGR wasmoderate ( Supplementary Tables 11 and14andSupplemen-
+tary Fig.18 , available online). For benefits, we found indirect-
+ness for weight loss, making us rate the certainty in evidence
+down to moderate. Specificall y, whereas Abu Dayyeh et al [45]
+used the current technique with placing stitches in the gastricbody to reduce its volume, Miller et al [46] and Sullivan et al[47] used the former technique, which focused on placing pli-
+cations in the fundus. This diffe rence in techniques likely ex-
+plained inconsistency and im precision of the MD in weight
+loss. Additionally, the control group in Sullivan et al [47] under-went a sham procedure with concomitant low-intensity LM,w h i c hh a sb e e ns h o w nt ob ea s s o c i a t e dw i t has m a l l e rM Di nweight loss compared with a non-sham control group.Forharms, there was moderate certainty in evidence given a smallnumber of SAEs with a wide CI.
+Discussion
+This analysis included several types of devices for gastric remo-deling including the Overstitch suturing device, IOP plication
+device, and Endomina plication device. Al though these devices
+create tissue plications differently, the result is similar. All pro-cedures reduce the width and length of the stomach and arebelieved to delay gastric emptying [74, 123,124]. Currently,
+the Overstitch has a CE mark and FDA De Novo marketing au-
+thorization for the treatment of obesity, whereas the IOP andEndomina have a CE mark and FDA 510(k) clearance for tissueapproximation of the GI tract.
+For EGR, the MD in weight loss, representing the difference
+between the pooled percentage of TWL in the EGR arm minusthe control arm, at 12 months was 8.0% TWL (95% CI, 3.4 –
+12.6) in favor of the intervention. The certainty of this evidence
+was rated moderate. Variability was seen across the 3 RCTs on
+EGR likely because of several factors. First, the trial with thelowest weight loss in the intervention arm was a sham-con-trolled study (4.95% ± 7.04% TWL). Within that trial, a lead-ingroup of 34 subjects who were unblinded to their treatmentachieved 40% more weight loss than the treatment patientswho were blinded to study assign ment [47]. Additionally, the
+same technique was used in a different trial included in the a-
+nalysis. Treatment patients ach ieved significantly more weight
+loss in this open-label RCT (13.0%; 95% CI, 10.3 –15.8) [46],
+supporting the hypothesis that the sham study design artificial-ly reduces weight loss in the treatment arm of an EBMT study.Including the randomized sham -controlled study therefore
+may have artificially lowered the weight loss compared withw h a tc a nb ee x p e c t e di nc l i n i c a lp ractice but is the most conser-
+vative analysis.
+Four RCTs with at least 6 months of data were included in the
+safety analysis with a low SAE rate of 3.2%. Additionally, someof these SAEs were because of accommodative symptoms ofnausea and vomiting causing dehydration and abdominal pain,which were short-lived and resolved without sequelae.Similar to IGBs, the panel agreed that EGR currently reduces
+equity solely because it is not covered by the national healthsystem or insurance in most countries. Therefore, in most coun-tries only patients who can pay out of pocket have access to this
+therapy. Equity would substantially increase by expanding op-
+tions and accessibility to a wider range of patients with obesity,including the under-represented minority patients with obesi-
+ty, and if this procedure was covered universally by nationalhealth systems and insuranc e companies. The panel also
+agreed that acceptability of endo scopic suturing/plication re-
+modeling of the stomach is high among patients seeking obesi-ty treatment.
+Further details regarding the rationale for this recommenda-
+tion including the results of systematic reviews, expert survey,and evidence profile are presented in Appendix 5 (available on-line).
+Further details regarding the rationale for this recommenda-
+tion including the results of systematic reviews, expert survey,
+and evidence profile are presented in Appendix 6 (available on-
+line).
+Further details regarding the rationale for this recommenda-
+tion including the results of systematic reviews, expert surveyand evidence profile are presented in Appendix 7 (available on-line).RECOMMENDATION 8
+In adults undergoing EGR, the ASGE –ESGE suggests the
+use of pain medications periprocedurally.(Conditional recommendation, very low certainty )RECOMMENDATION 7
+In adults undergoing EGR, the ASGE –ESGE suggests the
+use of antiemetics periprocedurally.(Conditional recommendation, very low certainty )
+RECOMMENDATION 9
+In adults undergoing EGR, the ASGE –ESGE suggests the
+use of short-term antibiotics periprocedurally.
+(Conditional recommendation, very low certainty )
+Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved. 447
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+Further details regarding the rationale for this recommenda-
+tion including the results of systematic reviews, expert surveyand evidence profile are present ed in Appendix 8 (available on-
+line).
+Further details regarding the rationale for this recommenda-
+tion including the results of syste matic reviews, meta-analyses,
+and evidence profile are present ed in Appendix 9 (available on-
+line).
+Summary of the evidence
+One RCT assessing the safety and efficacy of TPS was used to in-form this PICO [49]. The study included subjects with class Iobesity with at least 1 comorbidity and class II obesity with orwithout a comorbidity. Mean age and BMI of the interventionarm were 43 years and 36.8kg/m
+2, respectively. The interven-
+tion arm underwent concomitant moderate-intensity LM,whereas the control arm underwent a sham procedure withconcomitant moderate-intensity LM ( Supplementary Table9 ).
+Benefits
+One RCT informed the outcome of percentage of TWL at 12
+months [49]. One hundred eighty-one subjects were in theTPS plus LM group and 89 in the sham plus LM group ( Supple-
+mentary Table9 ). The MD, representing the difference be-
+t w e e nt h em e a np e r c e n t a g eo fT W Li nt h eT P Sa r mm i n u st h econtrol arm at 12 months, was 6.7% TWL (95% CI, 4.5 –8.9) in
+favor of the intervention ( Supplemental Fig.19 , available on-
+line).Harms
+One RCT informed the outcome SAEs [49]. SAEs were definedby the investigators and reported in the original study. The
+SAEs showed an absolute risk of 18 additional SAEs per 1000
+subjects (95% CI, 3 –380) in the TPS group (6/213) compared
+with the control group (0/89) ( Supplementary Fig.20 ,a v a i l -
+able online). These SAEs included esophageal rupture requiring
+a surgical repair (1/ 213), upper abdominal p ain/device impac-
+tion (1/213), vomiting/device im paction (1/213), gastric ulcer/
+device impaction (1/213), device intolerance (1/213), anddevice impaction (1/213) ( Supplementary Table15 , available
+online).
+Certainty of evidence assessment
+The overall certainty in the evidence of effects for TPS was low
+(Supplementary Tables 11 and 16, available online). Risk of
+bias was judged as not serious ( Supplementary Fig.21 , avail-
+able online). The only limitati on of the efficacy evidence was
+imprecision because of a small number of patients included in
+the study. For harms, there was a low certainty in the evidence
+given a small number of SAEs with a wide CI that crossed theline of no difference.
+Discussion
+The TPS is a gastric device with FDA approval in the UnitedStates; however, it has not yet been commercialized. Unlikethe IGB, it is not a space-occupying device. The mechanism of
+action is related to the device ca using intermittent gastric out-
+let obstruction with the larger portion of the device, bobbingbetween the antrum and pylorus with gastric contractions. Be-cause the larger portion of the device is filled with silicone, itdoes not have a risk of deflation and has FDA approval for 12months of dwell time. However, only 1 RCT was available for a-nalysis of the current generation of the TPS [49]. One previouspilot study was performed evaluating an earlier design of the
+device, but that device was associated with a high rate of ul-
+ceration that occurred in 50% of patients [127] and necessita-ted the design change to its current form. The U.S. multicenterrandomized sham-controlled trial demonstrated significantweight loss over sham and a low SAE rate of 2.8%, but therewere only 213 patients who received the device either in the ac-tive arm or an open-label extension arm and 89 control pa-tients. Moreover, because the device has not been commercia-
+lized, only a few members of the panel had any experience with
+the device, and this experience w as limited to the study setting.
+Because of the insufficient real-world experience with the de-vice, the panel recommended us ing this device for treating
+obesity only in the context of a clinical trial.RECOMMENDATION 12
+In adults with obesity, the ASGE –ESGE recommends
+treatment with TPS only in the context of a clinical trial.(No recommendation, knowledge gap )RECOMMENDATION 11
+In adults with obesity, the ASGE –ESGE suggests treat-
+ment with AT plus LM over LM alone depending on deviceavailability.(Conditional recommendation, low certainty )RECOMMENDATION 10
+In adults undergoing EGR, the ASGE –ESGE suggests the
+use of short-term PPIs after the procedure over no PPIs.
+(Conditional recommendation, very low certainty )
+RECOMMENDATION 13
+In adults with obesity and T2DM, the ASGE –ESGE sug-
+g e s t st r e a t m e n tw i t ht h eD J B Lp l u sL Mo v e rL Ma l o n e .(Conditional recommendation, moderate certainty )
+448 Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved.Guideline
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+Implementation considerations
+▪The DJBL is an EBMT device for the treatment of T2DMand
+obesity. The current generati on is designed for a 12-month
+implant duration period.
+Summary of the evidence
+Three RCTs assessing the safety and efficacy of the DJBL were
+used to inform this PICO [50, 51,63]. Of these, 3 studies wereused to assess safety [50, 51, 63], and 2 studies were used to as-sess efficacy [50, 51]. In Koehestanie et al [63], the DJBL was im-planted for 6 months. Therefore, the efficacy, which is the dif-
+ference in HbA1c reduction and percentage of TWL between
+the 2 arms at 12 months, was not able to be assessed. Other-wise, both Thompson et al [50] and Ruban et al [51] had theDJBL implanted for 12 months. All studies included subjectswith obesity and concomitant T2DM. Mean age, BMI, andHbA1c of the intervention arm ranged from 49.5 to 53 years,34.6 to 38.4kg/m
+2, and 8.3% to 8.9%, respectively. InThompson
+et al [50], the intervention ar m underwent DJBL implantation
+and concomitant low-intensity LM, whereas the control arm un-
+derwent low-intensity LM alone ( Supplementary Table9 ).
+Benefits
+Two RCTs informed the outcomes of HbA1c reduction and per-
+centage of TWL at 12 months [91, 93]. Two hundred ninety-eight subjects were in the DJBL plus LM group and 192 in theLM group. The MD, representing the difference between the
+pooled HbA1c reduction in the DJBL arm minus the control
+arm at 12 months, was .73% (95% CI, .39 –1.06) in favor of the
+intervention ( Supplementary Fig.4 , available online). The MD,
+representing the difference between the pooled percentage ofTWL in the DJBL arm minus the control arm at 12 months, was5.4% TWL (95% CI, 4.1 –6.7) in favor of the intervention ( Sup-
+plementary Fig.22 ).
+A separate meta-analysis including the active arm of the
+RCTs and observational studies of DJBL studies of the same pa-
+tient population (obesity with concomitant T2DM) was pre-viously conducted [128]. Four teen studies with 412 DJBL
+patients were included with a med i a ni m p l a n t a t i o nd u r a t i o no f
+33 weeks (range, 12 –52). Mean age ranged from 36 to 54 years,
+BMI from 30.0 to 48.9kg/m
+2, and HbA1c from 6.7% to 9.2%. At
+the time of DJBL explantation, the pooled HbA1c reduction andweight loss were 1.3% (95% CI, 1.0 –1.6) and 18.9% TWL (95% CI,
+7.2–30.6), respectively.
+Harms
+Three RCTs informed the outcome of SAEs [50,51, 63], which
+were defined as events that resulted in early explant. In Rubanet al [51], the rate of early explant was not reported. Therefore,the worldwide registry was reviewed, and the SAEs were cate-g o r i z e db a s e do nt h eA G R E Ec l a s s i f i c a t i o na n dn e e df o re a r l ye x -
+plantation. The pooled estimate for SAEs showed an absolute
+risk of 24 additional SAEs per 1000 subjects (95% CI, 8 –59) in
+the DJBL group (26/331) compared with the control group (0/232) ( Supplementary Fig.23 , available online). Selected ex-
+amples of SAEs from the U.S. pivotal study (ENDO trial) includ-ed intolerance (8/212), hemorrhage (6/212), hepatic abscess
+(5/212), DJBL obstruction (3/212 ), pancreatitis (2/212), intes-
+tinal perforation (1/212), and ulceration (1/212) ( Supplemen-
+tary Table17 , available online).
+Certainty of evidence assessment
+The overall certainty in the evidence of effects for DJBL implan-
+tation was moderate ( Supplementary Tables 11 and 18and
+Supplementary Fig.24 , available online). For benefits, beca-
+sue the lower 95% confidence limit for HbA1c reduction cros-sed the minimal clinically import ant difference of .5 %, the evi-
+dence was rated down for imprecision. The certainty of evi-
+dence for percentage of TWL, otherwise, was rated as high. For
+harms, there was moderate certainty in the evidence given asmall number of SAEs with a wide CI.
+Discussion
+As noted in the Introduction, the small bowel plays a role in glu-cose homeostasis, and treatments targeting the small bowellikely have effects that are independent of weight loss. In an ef-
+fort to mimic the effects of Roux-en-Y gastric bypass where the
+duodenum and part of the jejunum are bypassed, more than 1device has been developed to bypass the jejunum with or with-out bypassing other portions of the GI tract. Only 1 of these de-vices, the DJBL, has been studied in RCTs and was previously ap-proved for use in Europe with a CE mark that was obtained in2010.The CE mark was lost in 2017 because of administrativeissues and not related to a concern about safety or efficacy,
+and efforts are underway to regain approval in Europe. A pre-
+vious U.S. multicenter randomized sham-controlled trial wasstopped early by the company because of concerns of hepaticabscesses despite meeting the primary endpoints, but a newmulticenter RCT for FDA approval is ongoing as of the time ofwriting of this guideline. The DJBL is also being studied for ap-proval in India.
+The magnitude of HbA1c improvement at 12 months in pa-
+tients with obesity and concomitant T2DMwas evaluated in 2
+RCTs with an additional improvement of .73% (95% CI, .39 –
+1.06) above the control. A previous meta-analysis that includeda combination of 14 observational and RCTs with data on glyce-mic control between 12 and 48 weeks of implantation found anabsolute improvement in HbA1c of 1.3 % (95 % CI, 1.0 –1.6)
+compared with baseline [128]. In a subgroup analysis of theRCTs with implantation between 12 and 48 weeks, the addi-
+tional improvement in HbA1c in the interventional arm was
+.90% (95% CI, .5 –1.3) above the control arm, consistent with
+the present analysis despite the shorter duration of device im-plantation. Although small-bow el therapies are categorized
+separately from gastric devices because of their weight loss –in-
+dependent effects, the DJBL also has an effect on weight loss.The present analysis demonstrated a difference of 5.4% TWL(95% CI, 4.1 –6.7) in the device arm over the control arm.
+The rate of SAEs evaluated across 3 RCTs with at least 6
+months of device implantation time was 8.5%, with a wide CI.
+The panel noted that the original U.S.multicenter RCT wasstopped early by the company because of a higher than antici-pated rate of hepatic abscesses. An analysis performed by the
+Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved. 449
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+sponsor found that the high doses of PPIs used for bleeding
+prophylaxis in the United States, but not in other countries,contributed to a biofilm on the device with a high bacterialload. The U.S.multicenter RCT ongoing at the time of writing
+of this guideline has several infection mitigation strategies to
+reduce hepatic abscesses. Furthe rmore, given the risks of sub-
+optimal T2DMmanagement and th at only about half of patients
+with T2DM are able to achieve glycemic control on medications[129], the panel believed the benefits of the DJBL outweighedthe risks.
+The panel found no negative effects on equity at the present
+time solely because the device is not commercially available at
+this time. However, if it were commercially available and not
+covered by national health systems or insurance companies, itwould decrease equity because of lack of affordability by manypatients. Physicians with experience using the device reportedpatient acceptability of the device was high both because of thelowering of the HbA1c during im plantation and the durability
+of HbA1c change up to 6 months after device removal [128].
+Summary of the evidence
+One RCT assessing the safety and efficacy of DMR was used toinform this PICO [64]. The study included subjects with T2DMa n dB M I sb e t w e e n2 4a n d4 0 k g / m
+2.M e a na g e ,B M I ,a n d
+HbA1c of the intervention arm were 58 years, 31.5kg/m2,a n d
+8.2%, respectively. The intervention arm underwent concomi-tant low-intensity LM, whereas the control arm underwent asham procedure with concomitant low-intensity LM ( Supple-
+mentary Table9 ).
+Benefits
+One RCT informed the outcome of HbA1c reduction at 6
+months [64]. Fifty-six subjects were in the DMR plus LM groupand 52 in the sham plus LM group.The MD, representing thedifference between the mean HbA1c reduction in the DMRarm minus the control arm at 6 months, was .3% (95% CI, –1.1
+to 1.7) in favor of the intervention ( Supplemental Fig.25 ,
+available online).
+Harms
+One RCT informed the outcome of SAEs [64], which were de-fined by the investigators and reported in the original study.The SAEs showed an absolute risk of 15 additional events per1000 subjects (95% CI, 3 –375) in the DMR group (2/56) com-
+pared with the control group (0/52) ( Supplementary Fig.26 ,
+available online). These SAEs in cluded precautionary hospitali-
+zation for hematochezia later found to be because of externalhemorrhoids (1/56) and jejunal per foration requiring surgical
+repair (1/56) ( Supplementary Table19 , available online).Certainty of evidence assessment
+The overall certainty in the evidence of effects for DMR was low
+(Supplementary Tables 11 and 20, available online). Risk of
+bias was judged as not serious ( Supplementary Fig.27 , avail-
+able online). The only limitati on of the efficacy evidence was
+imprecision because of a small number of patients and the low-er 95% confidence limit for HbA1c reduction crossing the mini-mal clinically important difference of .5%. For harms, there waslow certainty given inconsistency because the data were de-rived from 1 RCT only and imprecision because of a small num-ber of SAEs with a wide CI.
+Discussion
+DMR is one of several potential therapies that directly treat theabnormally hypertrophied small-bowel mucosa that is hypo-thesized to drive the enteral contribution to poor glycemic con-trol. The Revita DMR is the only DMR therapy that has under-gone an RCT at this time. A few issues were found with theRCT. The trial was small, with 108 patients randomized to either
+the active or control arm, and was performed at sites in Europe
+and Brazil, which were found to be too heterogenous to becombined into 1 analysis and were stratified by region. More-over, glycemic control was only reported out to 24 weeks. In ameta-analysis of single-arm studies, the absolute change inHbA1c from baseline was 1.72% (95% CI, .25 –3.19) at 3
+months and .94% (95% CI, .68 –1.21) at 6 months, with a small
+change in weight that was not sufficient to explain the im-
+provement in HbA1c [130]. One single-arm study reported a
+change in HbA1c of −1 0±2m m o l / m o la t1 2m o n t h si n3 6p a -
+tients [131]. Finally, another small single-arm study performedin biopsy sample –proven nonalcoholic steatohepatitis patients
+[132] (11 patients, 82% of patients with T2DM) found neithersignificant reduction of HbA1c nor weight loss reduction.
+However, because of the limi ted number of patients in the
+RCT, patient heterogeneity between regions, and only a 24-
+week study duration, the panel believed the data were insuffi-
+cient to make a recommendation for or against DMR in a clinicalsetting and that the device should be used in a trial setting only.At the time of the writing of this guideline, a U.S.and Europeanmulticenter RCT evaluating the effect of DMR on glycemic con-trol is ongoing. This study may p rovide the additional data
+needed to determine whether recommendations should bemade for or against this therapy for the treatment of T2DM.
+Discussion
+Management strategies for obesity have significantly expandedover the past decades to include AOMs, EBMTs, and bariatricsurgery. From an EBMT standpoint, several devices have beendeveloped and received FDA clearance or approval and/or a CEmark. Nevertheless, at the time of writing of this guideline, only
+IGBs and EGR devices are commercially available and routinely
+used in clinical practice. Of note, in this document, differentIGBs and devices for performing EGR were grouped togetherfor analyses regardless of the manufacturer of the balloon orsuturing/plication device given their similar mechanisms. ThisRECOMMENDATION 14
+In adults with T2DM, the ASGE –ESGE recommends treat-
+ment with DMR only in the context of a clinical trial.(No recommendation, knowledge gap )
+450 Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved.Guideline
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
+was similar to how previous guidelines grouped all types of IGBs
+or sleeve gastrectomy together regardless of the brand of theballoon or stapler. It is also important to offer EBMTs in con-junction with LM consisting of di etary interventions, physical
+activity, and behavioral therapy to achieve and maintain weight
+loss. Furthermore, a multidiscip linary approach for the treat-
+ment of obesity is crucial where bariatric endoscopists workclosely and collaboratively with d ietitians, exercise physiolo-
+gists, behavioral experts, obesity medicine experts, and baria-tric surgeons to optimize outcomes. Finally, as noted in the Dis-cussions for both IGB and EGR, r educed equity because of a lack
+of widespread national health coverage or commercial insur-
+ance is a major factor leading t o the conditional recommenda-
+tion. Improved equity, in parti cular for under-represented
+minorities, will require widespread coverage of these proce-dures to increase patient access.
+Regarding durability, although EGR procedures have been
+shown to be effective up to at least 5 years [133], it is importantto acknowledge that, similar to most obesity treatments, in-adequate weight loss and recur rent weight gain after EBMTs
+may occur. Multiple options ar e available for management of
+this condition, including repeat procedures, adding AOMs, in-tensifying LM therapy, or switching to a different device or pro-cedure. These options, however, are not evaluated in thisguideline. It is also important to note that EBMTs do not preventpatients from undergoing bariatric surgery, if needed in the fu-ture [134].
+There are several key evidence gaps in the field of EBMTs.
+First, data appear to be limited on the long-term effect of
+EBMTs on comorbidities, includi ng cardiovascular events, can-
+cer risk, and mortality. Nevertheless, weight loss has beenshown to improve these endpoints independent of how theweight loss was achieved. Therefore, it is likely that the weightloss achieved by EBMTs could be sufficient to improve comor-bidity outcomes. Second, future s tudies evaluating the effect
+of combination therapy of different EBMTs or of an EBMT with
+another obesity intervention (such as AOMs) are warranted.
+Additionally, with an increasi ng number of EBMTs being devel-
+oped and becoming available, it is important to understandhow to personalize these interventions for each patient basedon his or her characteristics and comorbidities. Furthermore,data on periprocedural care before and after EBMTs are limited.In this document, expert surveys were conducted to achievethe best practice consensus. Nevertheless, future studies on
+these topics would help further guide periprocedural care
+around EBMT procedures. Last but not least, studies evaluatingcost-effectiveness are important to understanding the health-care system benefit of these therapies, and further research onthis area is needed.
+The present guideline serves as a corollary to several con-
+temporary guidelines on the to pic of obesity management.
+Specifically, in 2013 the America n Heart Association, American
+College of Cardiology, and The Obesity Society published the
+“Guideline for the Management of Overweight and Obesity in
+Adults ”focusing on LM and bariatric surgery [10]. In 2015, the
+Obesity Society and European Society of Endocrinology pub-lished “Pharmacological Managemen t of Obesity: An EndocrineSociety Clinical Practice Guideline ”focusing on AOMs that were
+available at that time [135]. Wit h newer GLP-1RAs being avail-
+able, the American Gastroenterological Association recentlypublished “Clinical Practice Guideline on Pharmacological In-
+terventions for Adults with Obesity, ”focusing on all available
+AOMs including these newer injection agents [17]. In 2021,the American Gastroenterological Association also publishedthe“AGA Clinical Practice Guidelines on Intragastric Balloons
+in the Management of Obesity. ”[36] The present guideline ex-
+pands on the American Gastroenterological Association guide-line on IGB by also evaluating other EBMTs that have had FDAclearance or approval or a CE mark. Most recently, in 2022, the
+American Society for Metabolic a nd Bariatric Surgery and Inter-
+national Federation for the Surgery of Obesity and MetabolicDisorders published “Indications for Metabolic and Bariatric
+Surgery, ”focusing on BMI indications and long-term results of
+bariatric surgery [136].
+In summary, EBMTs are an evolving category of obesity
+treatments. IGBs and devices for EGR are recommended foruse by the ASGE –ESGE in conjunction with LM and are currently
+commercially available. These t herapies should be performed
+with the appropriate peri- and postprocedural management asoutlined in this guideline to optimize clinical outcomes. Addi-tionally, AT and DJBL therapies would be recommended for useif they were to return to the market, and further recommenda-tions regarding TPS, DMR, and other procedures will be madeonce real-world data are available.
+Conflict of interest
+The following authors disclosed financial relationships: P. Jirapinyo:
+Consultant for Apollo Endosurgery, Boston Scientific Corporation,
+Erbe, and Spatz Medical; advisory board for Apollo Endosurgery; re-search support from Apollo Endosurgery, Boston Scientific Corpora-tion, GI Dynamics, Fractyl, and USGI Medical. A. Hadefi: Research sup-
+port from Endo Tools Therapeutics. C. C. Thompson: Consultant for
+Apollo Endosurgery, Boston Scientific Corporation, Medtronic, Endo-quest Robotics, Fractyl, FujiFilm, GI Dynamics, EnVision Endoscopy,Olympus/Spiration, Softac, USGI Medical, Xenter, Enterasense Ltd,
+and Lumendi; research support from Apollo Endosurgery, Boston Sci-
+entific Corporation, Endoquest Robotics, Erbe, Fractyl, FujiFilm, GID y n a m i c s ,O l y m p u s / S p i r a t i o n ,U S G IM e d i c a l ,a n dL u m e n d i ;a d v i s o r y
+board for Fractyl and USGI Medical; founder of Bariendo, BlueFlame
+Healthcare Venture Fund, ELLES, EnVision Endoscopy, GI Windows,Society for Metabolic and Bariatric Endoscopy Inc, and EnterasenseLtd, and GI Windows; board member for Bariendo, ELLES, EnVision
+Endoscopy, GI Windows, and Enterasense Ltd; ownership in Bariendo,
+ELLES, EnVision Endoscopy, GI Windows, Society for Metabolic andBariatric Endoscopy Inc, Softac, Xenter, and Enterasense Ltd; partnerin BlueFlame Healthcare Venture Fund; president of the Society for
+Metabolic and Bariatric Endoscopy Inc; Scientific Advisory Board for
+Xenter. R. Pannala: Research support from Fractyl Labs; general pay-ments from Boston Scientific Corporation; consultant for HCL Tech-
+nologies; advisory board for Nestle Healthsciences and Bluestar
+Genomics.S.K. Goelder: Travel compensation from Apollo Endosur-gery. V. Kushnir: Consultant for BSCI, Noah Medical, Steres, andConMed. M. Barthet: Consultant for Boston Scientific Corporation,
+Endotools, and Taewoong. C. M. Apovian: Advisory board for Altim-
+m u n e ,I n c ,C i n F i n aP h a r m a ,I n c ,C o w e na n dC o m p a n y ,L L C ,C u r r a xPharmaceuticals, LLC, EPG Communication Holdings Ltd, FormH e a l t h ,I n c ,G e l e s i s ,S r l ,L - N u t r a ,I n c ,N e u r o B oP h a r m a c e u t i c a l s ,I n c ,
+Jirapinyo Pichamol et al. American Society for …Endoscopy 2024; 56: 437 –456 | © 2024. ESGE and ASGE. All rights reserved. 451
+This document was downloaded for personal use only. Unauthorized distribution is strictly prohibited.
+
